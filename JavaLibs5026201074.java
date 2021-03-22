@@ -107,7 +107,3 @@ public class JavaLibs5026201074 {
                 1);
     }
 }
-/* Your program must also do the following:
-•Accept at least 1 input, to be parsed as a String done
-•Do math with at least 1 double input
- */
